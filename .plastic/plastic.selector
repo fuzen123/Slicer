@@ -1,0 +1,4 @@
+repository "StretchSlice@ivan_4558190@cloud"
+  path "/"
+    br "/main"
+    co "/main"
