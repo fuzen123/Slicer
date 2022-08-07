@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CustomDissolveChar
+  m_Shader: {fileID: 4800000, guid: 9408cbaf718f8814d8a570b25b49203d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlendTex1:
+        m_Texture: {fileID: 2800000, guid: 3636368bf032e4241946671604087188, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendingSource:
+        m_Texture: {fileID: 2800000, guid: ed8a16eebf267ae41b910644eff119ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveGradientTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap:
+        m_Texture: {fileID: 2800000, guid: ed8a16eebf267ae41b910644eff119ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoTileNoiseTex:
+        m_Texture: {fileID: 10307, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TriGround:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TriSide:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorHeight: 0.743
+    - _DissolveGradientStrength: 2
+    - _DissolveGradientWidth: 0
+    - _DissolveValue: 0
+    - _Emission1: 0
+    - _FinalColor: 0
+    - _ObjHeight: 0.59
+    - _RampSmoothing: 0.815
+    - _RampThreshold: 0.834
+    - _VertexPosition1: 1
+    - _VerticalFogSmoothness: 14.5
+    - _VerticalFogThreshold: -4.2
+    - _Width: 0.848
+    - _YPos: -8.28
+    - __dummy__: 0
+    - _heightoffset: -20
+    m_Colors:
+    - _Color: {r: 1, g: 0.9198113, b: 0.9750934, a: 1}
+    - _ColorFill: {r: 1, g: 0.051886797, b: 0.051886797, a: 1}
+    - _DiffuseTint: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveMap_SC: {r: 1, g: 1, b: 0, a: 0}
+    - _Emission: {r: 0.40588236, g: 0, b: 0, a: 1}
+    - _GradientColor: {r: 0.23285435, g: 0, b: 0, a: 1}
+    - _HColor: {r: 1, g: 0.7216981, b: 0.9560576, a: 1}
+    - _SColor: {r: 0.28848365, g: 0.048949793, b: 0.41509432, a: 1}
+    - _SomeColor: {r: 0.1728818, g: 0.8925791, b: 0.990566, a: 1}
+    - _TriplanarBlendStrength: {r: 2, g: 8, b: 2, a: 0.5}
+    - _TriplanarSamplingStrength: {r: 1, g: 1, b: 6.3, a: 0.61}
+    - _VertexPosition: {r: 1, g: 1, b: 1, a: 1}
+    - _VerticalFogColor: {r: 1, g: 0.9622972, b: 0, a: 1}
+  m_BuildTextureStacks: []
