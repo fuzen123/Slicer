@@ -8,5 +8,6 @@ namespace CuttingMan
         public int stamina;
         public int income;
         public int speed;
+        public int GameLevel;
     }
 }

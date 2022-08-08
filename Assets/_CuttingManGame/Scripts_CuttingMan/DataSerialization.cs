@@ -31,6 +31,7 @@ namespace CuttingMan
                 ld.score = 0f;
                 ld.speed = 1;
                 ld.stamina = 1;
+                ld.GameLevel = 1;
             }
 
             return ld;

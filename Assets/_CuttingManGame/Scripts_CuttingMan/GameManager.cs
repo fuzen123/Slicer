@@ -26,8 +26,8 @@ namespace CuttingMan
         public float LevelLength { set { leveLength = value; } }
 
         private Dictionary<string, object> parameters;
-        private int level = 1;
-        public int GameLevel { get { return level; } }
+        private int gameLevel = 1;
+        public int CurrentGameLevel { get { return gameLevel; } }
         private int currentAttempt = 0;
         [SerializeField] GamePlayClikEvents clickEvents;
         
@@ -42,7 +42,7 @@ namespace CuttingMan
             int currscore = Mathf.FloorToInt(ScoreManager.Instance.Score());
             parameters.Add("Current money collected", $"{currscore}");
             parameters.Add("Attempted level pass", $"{currentAttempt}");
-            clickEvents.StartLevel(level, parameters);
+            clickEvents.StartLevel(gameLevel, parameters);
         }
         //on UI button
         public void PlayAgainLevel()
@@ -55,7 +55,7 @@ namespace CuttingMan
             start.enabled = true;
             if (cutlvl != null)
                 Destroy(cutlvl);
-            int indxPrefab = (level - 1) % CuttablesLvlPrefab.Length;
+            int indxPrefab = (gameLevel - 1) % CuttablesLvlPrefab.Length;
             cutlvl = Instantiate(CuttablesLvlPrefab[indxPrefab]);
             playerctrl.ResetToStart();
             if(newLevel)
@@ -71,7 +71,7 @@ namespace CuttingMan
             flag.SetOnPlace(new Vector3(0f, 0f, -30f));
             uiProgress.SetSlider(0f);
             Destroy(currEnvironment);
-            int indxPrefab = (level - 1) % CuttablesLvlPrefab.Length;
+            int indxPrefab = (gameLevel - 1) % CuttablesLvlPrefab.Length;
             currEnvironment = Instantiate(Environments[indxPrefab]);
         }
         public void UpdateUIProgres(float plyPos)
@@ -88,7 +88,8 @@ namespace CuttingMan
         public void OnEndTrigger()
         {
             clickEvents.SendLevelWin(parameters);
-            level++;
+            gameLevel++;
+            upgCtrl.GameLevelVar = gameLevel;
             winCanvas.enabled = true;
             playerctrl.ReachEnd();
             newLevel = true;
@@ -121,10 +122,11 @@ namespace CuttingMan
             end.enabled = false;
             start.enabled = true;
             menuCanvas.Show();
-            int indxPrefab = (level - 1) % CuttablesLvlPrefab.Length;
+            upgCtrl.Init();
+            gameLevel = upgCtrl.GameLevelVar;
+            int indxPrefab = (gameLevel - 1) % CuttablesLvlPrefab.Length;
             cutlvl = Instantiate(CuttablesLvlPrefab[indxPrefab]);
             currEnvironment = Instantiate(Environments[indxPrefab]);
-            upgCtrl.Init();
             playerctrl.Init(upgCtrl.upgradedData[2].Level, upgCtrl.upgradedData[0].Level);
             ScoreManager.Instance.Init(upgCtrl.score, upgCtrl.upgradedData[1].Level);
             menuCanvas.SetButtons(upgCtrl.upgradedData);

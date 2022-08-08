@@ -47,6 +47,11 @@ namespace CuttingMan
                 }
             }
         }
+        public int GameLevelVar
+        {   
+            get { return savedLvlData.GameLevel; }
+            set { savedLvlData.GameLevel = value; }
+        }
         public void UpgradeStat(int statIndex)
         {
             upgradedData[statIndex].Level++;

@@ -68,15 +68,15 @@ namespace CuttingMan
         public void SetStaminaRate(int lvl)
         {
             var lvlbonus = ((lvl / 10) % 10);
-            var gamelevelFac = 1f / (GameManager.Instance.GameLevel * GameManager.Instance.GameLevel);
-            gamelevelFac *= Mathf.Sqrt(GameManager.Instance.GameLevel);
+            var gamelevelFac = 1f / (GameManager.Instance.CurrentGameLevel * GameManager.Instance.CurrentGameLevel);
+            gamelevelFac *= Mathf.Sqrt(GameManager.Instance.CurrentGameLevel);
             fatigueUpdateMultplier = 22f + ((lvl*lvl*(1.4f * gamelevelFac)) + (lvlbonus*10f));
             fatigueUpdateMultplier = 1f / fatigueUpdateMultplier;
             CalcWarningBounds();
         }
         public void SetMoveSpeed(int lvl)
         {
-            float inc = ((lvl + lvl) * 4f / 9f) - ((GameManager.Instance.GameLevel - 1) * lvl * 2f / 9f);
+            float inc = ((lvl + lvl) * 4f / 9f) - ((GameManager.Instance.CurrentGameLevel - 1) * lvl * 2f / 9f);
             pMove.setForwardSpeed(inc);
         }
         private void Update()
