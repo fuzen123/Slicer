@@ -18,6 +18,13 @@ namespace CuttingMan
             score += cutScoreValue;
             scoreui.SetScoreTxt(Mathf.Floor(score));
         }
+        public float AddBonusScore(float multiplier)
+        {
+            float v = cutScoreValue * multiplier;
+            score += v;
+            scoreui.SetScoreTxt(Mathf.Floor(score));
+            return v;
+        }
         public void BuyedStat(float costAmount)
         {
             score -= costAmount;
@@ -33,7 +40,8 @@ namespace CuttingMan
         }
         public void UpgradeScoreValue(int lvl)
         {
-            cutScoreValue = lvl / 10f;
+            var bonusLvl = (lvl / 10) % 10;
+            cutScoreValue = lvl / 10f + ((bonusLvl*lvl) / 20f);
         }
 
         public void Init(float savedScore, int scoreValueLevel)

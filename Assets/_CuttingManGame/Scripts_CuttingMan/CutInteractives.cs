@@ -3,7 +3,7 @@
 namespace CuttingMan
 {
     public abstract class CutInteractives : MonoBehaviour
-    {
-        public abstract void DoCut();
+    {        
+        public abstract void DoCut(PlayerCtrl pc);
     }
 }

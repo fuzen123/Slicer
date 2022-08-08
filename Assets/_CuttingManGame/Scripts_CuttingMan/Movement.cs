@@ -19,10 +19,8 @@ namespace CuttingMan
             speed = forwardSpeed + increaseVal;
         }
         public bool Moving() 
-        { 
-            if (isMoving)// && !isAccing)
-                return true;
-            return false;
+        {
+            return isMoving;
         }
         public void StopMoving()
         {
@@ -49,7 +47,7 @@ namespace CuttingMan
                 isAccing = true;
                 isMoving = false;
             }
-            else if(Input.GetMouseButton(0))
+            if(Input.GetMouseButton(0))
             {
                 transform.Translate(acc * speed * Time.deltaTime * Vector3.forward);
             }
@@ -59,8 +57,6 @@ namespace CuttingMan
         private void CalcAcceleration()
         {
             acc = Mathf.MoveTowards(acc, targetAcc, 2f * Time.deltaTime);
-            if (targetAcc == 0f)
-                transform.Translate(acc * speed * Time.deltaTime * Vector3.forward);
             if (acc == targetAcc)
             {
                 isAccing = false;

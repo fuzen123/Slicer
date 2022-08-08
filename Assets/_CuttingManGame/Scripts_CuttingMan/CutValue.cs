@@ -10,12 +10,15 @@ namespace CuttingMan
         private Color col;
 
         private float camAngle;
-
         private void Start()
         {
             col = text.color;
             var v = ScoreManager.Instance.GetValue();
             text.SetText(v.ToString());
+            AnimateCollected();
+        }
+        private void AnimateCollected()
+        {
             lt1 = LeanTween.moveLocalY(gameObject, transform.position.y + 7f, 0.75f);
             LeanTween.value(gameObject, updateValueExampleCallback, 1f, 0f, 0.8f).setDestroyOnComplete(true);
         }

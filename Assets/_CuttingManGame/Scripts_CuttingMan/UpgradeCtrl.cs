@@ -75,8 +75,8 @@ namespace CuttingMan
         }
         private float PriceCalc(int level)
         {
-            float x = Mathf.Pow(1.618f, level + 1) - Mathf.Pow(0.618f, level + 1);
-            x = Mathf.Ceil(x / Mathf.Sqrt(5f));
+            float x = Mathf.Pow(level, 1.618f);
+            x = Mathf.Floor(x);
             return x;
         }
         private void OnDisable()

@@ -13,13 +13,21 @@ namespace CuttingMan
         public Canvas winCanvas;
         public float SecondDelayToShowEnd = 3f;
         public Canvas start;
+        public UIProgresBar uiProgress;
         public PlayerCtrl playerctrl;
-        public GameObject CuttablesLvlPrefab;
+        public GameObject[] CuttablesLvlPrefab;
+        public GameObject[] Environments;
+
         public Flag flag;
-        private GameObject cutlvl;
+        private GameObject cutlvl, currEnvironment;
+        private bool newLevel = false;
+
+        private float leveLength;
+        public float LevelLength { set { leveLength = value; } }
 
         private Dictionary<string, object> parameters;
         private int level = 1;
+        public int GameLevel { get { return level; } }
         private int currentAttempt = 0;
         [SerializeField] GamePlayClikEvents clickEvents;
         
@@ -47,10 +55,30 @@ namespace CuttingMan
             start.enabled = true;
             if (cutlvl != null)
                 Destroy(cutlvl);
-            cutlvl = Instantiate(CuttablesLvlPrefab);
+            int indxPrefab = (level - 1) % CuttablesLvlPrefab.Length;
+            cutlvl = Instantiate(CuttablesLvlPrefab[indxPrefab]);
             playerctrl.ResetToStart();
+            if(newLevel)
+            {
+                SetNewLevel();
+            }
         }
-
+        private void SetNewLevel()
+        {
+            newLevel = false;
+            playerctrl.SetStaminaRate(upgCtrl.upgradedData[0].Level);
+            playerctrl.SetMoveSpeed(upgCtrl.upgradedData[2].Level);
+            flag.SetOnPlace(new Vector3(0f, 0f, -30f));
+            uiProgress.SetSlider(0f);
+            Destroy(currEnvironment);
+            int indxPrefab = (level - 1) % CuttablesLvlPrefab.Length;
+            currEnvironment = Instantiate(Environments[indxPrefab]);
+        }
+        public void UpdateUIProgres(float plyPos)
+        {
+            float lp = plyPos / leveLength;
+            uiProgress.SetSlider(lp);
+        }
         public void OnFatigueOver()
         {
             flag.SetOnPlace(playerctrl.transform.position);
@@ -63,6 +91,7 @@ namespace CuttingMan
             level++;
             winCanvas.enabled = true;
             playerctrl.ReachEnd();
+            newLevel = true;
         }
 
         public void BuyScoreValueIncrease()
@@ -76,14 +105,14 @@ namespace CuttingMan
         {
             ScoreManager.Instance.BuyedStat(upgCtrl.upgradedData[0].Price);
             upgCtrl.UpgradeStat(0);
-            playerctrl.IncreaseStaminaRate(upgCtrl.upgradedData[0].Level);
+            playerctrl.SetStaminaRate(upgCtrl.upgradedData[0].Level);
             menuCanvas.SetButtons(upgCtrl.upgradedData);
         }
         public void BuySpeed()
         {
             ScoreManager.Instance.BuyedStat(upgCtrl.upgradedData[2].Price);
             upgCtrl.UpgradeStat(2);
-            playerctrl.IncreaseMoveSpeed(upgCtrl.upgradedData[2].Level);
+            playerctrl.SetMoveSpeed(upgCtrl.upgradedData[2].Level);
             menuCanvas.SetButtons(upgCtrl.upgradedData);
         }
         private void OnGameStart()
@@ -92,7 +121,9 @@ namespace CuttingMan
             end.enabled = false;
             start.enabled = true;
             menuCanvas.Show();
-            cutlvl = Instantiate(CuttablesLvlPrefab);
+            int indxPrefab = (level - 1) % CuttablesLvlPrefab.Length;
+            cutlvl = Instantiate(CuttablesLvlPrefab[indxPrefab]);
+            currEnvironment = Instantiate(Environments[indxPrefab]);
             upgCtrl.Init();
             playerctrl.Init(upgCtrl.upgradedData[2].Level, upgCtrl.upgradedData[0].Level);
             ScoreManager.Instance.Init(upgCtrl.score, upgCtrl.upgradedData[1].Level);

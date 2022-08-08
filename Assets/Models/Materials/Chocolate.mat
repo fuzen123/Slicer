@@ -65,15 +65,15 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.31
+    - _Glossiness: 0.1
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RampSmooth: 0.654
+    - _RampSmooth: 0.85
     - _RampSmoothAdd: 0.75
-    - _RampThreshold: 0.208
+    - _RampThreshold: 0.421
     - _RimMax: 0.85
     - _RimMin: 0.6
     - _RimStrength: 0.5

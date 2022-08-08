@@ -23,7 +23,7 @@ namespace CuttingMan
 
         private ParticleSystem.MainModule mmPs = new ParticleSystem.MainModule();
 
-        public override void DoCut()
+        public override void DoCut(PlayerCtrl pc)
         {
             mainmodel.SetActive(false);
             for (int i = 0; i < slicedmodels.Length; i++)
