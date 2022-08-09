@@ -854,6 +854,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -916,6 +924,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -978,6 +994,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -1040,6 +1064,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -1102,6 +1134,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -1660,6 +1700,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -1722,6 +1770,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -1784,6 +1840,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -2156,6 +2220,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -2280,6 +2352,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -2342,6 +2422,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -2714,6 +2802,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -2900,6 +2996,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -3024,6 +3128,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -3210,6 +3322,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -3520,6 +3640,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -3768,6 +3896,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -3830,6 +3966,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -4078,6 +4222,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -4202,6 +4354,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -4512,6 +4672,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -4574,6 +4742,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -4636,6 +4812,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)
@@ -4946,6 +5130,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -5194,6 +5386,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -5318,6 +5518,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -5690,6 +5898,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -6496,6 +6712,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -6682,6 +6906,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -6744,6 +6976,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)
@@ -6806,6 +7046,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -6930,6 +7178,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -7178,6 +7434,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -7240,6 +7504,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -7364,6 +7636,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -7984,6 +8264,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -8046,6 +8334,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -8232,6 +8528,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -8356,6 +8660,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -8914,6 +9226,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -8976,6 +9296,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)
@@ -9348,6 +9676,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -9472,6 +9808,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -9844,6 +10188,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -10030,6 +10382,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -10154,6 +10514,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -10216,6 +10584,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -10340,6 +10716,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)
@@ -10402,6 +10786,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -10526,6 +10918,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (5)
@@ -10588,6 +10988,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -10898,6 +11306,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -10960,6 +11376,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -11084,6 +11508,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (9)
@@ -11208,6 +11640,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -11270,6 +11710,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -11332,6 +11780,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3503043809454105530}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -11394,6 +11850,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (1)
@@ -11704,6 +12168,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1133199727921923342}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H
@@ -11766,6 +12238,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -11952,6 +12432,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -12014,6 +12502,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)
@@ -12262,6 +12758,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -12324,6 +12828,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (6)
@@ -12386,6 +12898,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)
@@ -12448,6 +12968,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5053297251638184807}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (3)
@@ -12572,6 +13100,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 456985487718504172}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (2)
@@ -12758,6 +13294,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7853736640302762796}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (4)
@@ -12944,6 +13488,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7668243192513156665}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (8)
@@ -13006,6 +13558,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8157650927054287185}
     m_Modifications:
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819326431297481271, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6897460701126911921, guid: 1965be6ae25585641a4c6b7e1d651967, type: 3}
       propertyPath: m_Name
       value: Metal_tube_H (7)

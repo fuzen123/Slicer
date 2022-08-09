@@ -699,6 +699,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8017020906803062759}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (3)
@@ -761,6 +769,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8017020906803062759}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (4)
@@ -823,6 +839,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4538900286571818767}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (4)
@@ -885,6 +909,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9163170062451011086}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (2)
@@ -1009,6 +1041,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5233976626336259061}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (3)
@@ -1195,6 +1235,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4914015613479072204}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (1)
@@ -1319,6 +1367,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4538900286571818767}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H
@@ -1443,6 +1499,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1794183383138634755}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (4)
@@ -1629,6 +1693,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1401106047811042522}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (4)
@@ -1691,6 +1763,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4538900286571818767}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (1)
@@ -1753,6 +1833,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5757671305448102570}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (4)
@@ -1877,6 +1965,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5757671305448102570}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (1)
@@ -1939,6 +2035,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9163170062451011086}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (1)
@@ -2001,6 +2105,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4538900286571818767}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (5)
@@ -2125,6 +2237,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 971964661305141299}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (2)
@@ -2187,6 +2307,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1401106047811042522}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (1)
@@ -2249,6 +2377,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4914015613479072204}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (2)
@@ -2311,6 +2447,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5953490466455324108}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (1)
@@ -2373,6 +2517,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5757671305448102570}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (2)
@@ -2497,6 +2649,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8017020906803062759}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H
@@ -2559,6 +2719,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4538900286571818767}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (2)
@@ -2683,6 +2851,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9205261546746393545}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (5)
@@ -2807,6 +2983,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1401106047811042522}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (2)
@@ -2993,6 +3177,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1401106047811042522}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H
@@ -3117,6 +3309,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5757671305448102570}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (3)
@@ -3241,6 +3441,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5757671305448102570}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (5)
@@ -3303,6 +3511,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4914015613479072204}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H
@@ -3365,6 +3581,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4914015613479072204}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (3)
@@ -3427,6 +3651,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5233976626336259061}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (2)
@@ -3489,6 +3721,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 971964661305141299}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (4)
@@ -3551,6 +3791,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 971964661305141299}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H
@@ -3613,6 +3861,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5233976626336259061}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H
@@ -3675,6 +3931,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9205261546746393545}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (4)
@@ -3799,6 +4063,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 971964661305141299}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (3)
@@ -3861,6 +4133,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9163170062451011086}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H
@@ -3923,6 +4203,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9205261546746393545}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (1)
@@ -3985,6 +4273,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8017020906803062759}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (2)
@@ -4047,6 +4343,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4914015613479072204}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (5)
@@ -4171,6 +4475,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4538900286571818767}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (3)
@@ -4233,6 +4545,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6745964348278533622}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (4)
@@ -4295,6 +4615,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5757671305448102570}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H
@@ -4357,6 +4685,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6745964348278533622}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (1)
@@ -4419,6 +4755,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5233976626336259061}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (4)
@@ -4481,6 +4825,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1794183383138634755}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (3)
@@ -4543,6 +4895,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6745964348278533622}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (2)
@@ -4729,6 +5089,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4914015613479072204}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (4)
@@ -4791,6 +5159,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9163170062451011086}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (5)
@@ -4853,6 +5229,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9163170062451011086}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (3)
@@ -4977,6 +5361,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5953490466455324108}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (5)
@@ -5039,6 +5431,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5953490466455324108}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (3)
@@ -5101,6 +5501,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5233976626336259061}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (1)
@@ -5163,6 +5571,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5953490466455324108}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (2)
@@ -5225,6 +5641,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8017020906803062759}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (5)
@@ -5349,6 +5773,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5233976626336259061}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (5)
@@ -5535,6 +5967,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1401106047811042522}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (5)
@@ -5597,6 +6037,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5953490466455324108}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H
@@ -5659,6 +6107,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9163170062451011086}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (4)
@@ -5783,6 +6239,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6745964348278533622}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (5)
@@ -5907,6 +6371,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8017020906803062759}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (1)
@@ -5969,6 +6441,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9205261546746393545}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (2)
@@ -6031,6 +6511,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1794183383138634755}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (5)
@@ -6093,6 +6581,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 971964661305141299}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (5)
@@ -6155,6 +6651,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1794183383138634755}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H
@@ -6279,6 +6783,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9205261546746393545}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H
@@ -6403,6 +6915,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5953490466455324108}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (4)
@@ -6527,6 +7047,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6745964348278533622}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H
@@ -6589,6 +7117,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 971964661305141299}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (1)
@@ -6775,6 +7311,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1794183383138634755}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (1)
@@ -6899,6 +7443,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9205261546746393545}
     m_Modifications:
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569432832403986800, guid: 67018669072245340ac36455ce060789, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 3592928409275415492, guid: 67018669072245340ac36455ce060789, type: 3}
       propertyPath: m_Name
       value: Diamond_H (3)
@@ -6961,6 +7513,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1794183383138634755}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (2)
@@ -7023,6 +7583,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6745964348278533622}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (3)
@@ -7085,6 +7653,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1401106047811042522}
     m_Modifications:
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8870108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1477112501253084042, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174866
+      objectReference: {fileID: 0}
     - target: {fileID: 6135297187519439348, guid: be303e42fd285cf43a234e18a37d9e16, type: 3}
       propertyPath: m_Name
       value: Emerald_H (3)
